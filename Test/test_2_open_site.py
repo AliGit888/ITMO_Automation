@@ -1,4 +1,4 @@
-from selenium.webdriver.commom.by import By
+# from selenium.webdriver.commom.by import By
 from selenium import webdriver
 
 driver = webdriver.Chrome()
